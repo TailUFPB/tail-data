@@ -1,47 +1,57 @@
 [
     {
         "name": "Adriel Cabral",
-        "link": "https://drive.google.com/thumbnail?id=1RR4ef8Mz6kuRcucJwmUpvXB7Yo-ibN4a",
-        "picture": "https://drive.google.com/thumbnail?id=1RR4ef8Mz6kuRcucJwmUpvXB7Yo-ibN4a"
+        "link": "https://www.linkedin.com/in/adriel-cabral-139b831b5/",
+        "picture": "https://github.com/TailUFPB/tail-data/blob/main/images/AdrielCabral.png"
     },
     {
-        "name": "Igor Simões",
-        "link": "https://drive.google.com/thumbnail?id=1sYQIDJfxPUc4y4YKzN9G2wa5fX-v0uTW",
-        "picture": "https://drive.google.com/thumbnail?id=1sYQIDJfxPUc4y4YKzN9G2wa5fX-v0uTW"
+        "name": "Isaac Sebastian",
+        "link": "https://www.linkedin.com/in/isaac-sebastian-a60329191/",
+        "picture": "https://github.com/TailUFPB/tail-data/blob/main/images/IsaacSebastian.png"
     },
     {
-        "name": "Joaquim Breno",
-        "link": "https://drive.google.com/thumbnail?id=1F4jZbwmkUwBDav7wi4KalD4G_ikNwkNa",
-        "picture": "https://drive.google.com/thumbnail?id=1F4jZbwmkUwBDav7wi4KalD4G_ikNwkNa"
+        "name": "Leudo Neto",
+        "link": "https://www.linkedin.com/in/leudo-neto/",
+        "picture": "https://github.com/TailUFPB/tail-data/blob/main/images/LeudoNeto.png"
     },
     {
         "name": "Jonas Felipe",
-        "link": "https://drive.google.com/thumbnail?id=1ADWZqvmKIrpz9mKMEMQlmCyqMIPKRw1a",
-        "picture": "https://drive.google.com/thumbnail?id=1ADWZqvmKIrpz9mKMEMQlmCyqMIPKRw1a"
+        "link": "https://www.linkedin.com/in/jonasfoliveira/",
+        "picture": "https://github.com/TailUFPB/tail-data/blob/main/images/JonasFelipe.png"
     },
     {
-        "name": "Frankley Kaiky",
-        "link": "https://drive.google.com/thumbnail?id=1KRHhvOEIjyBI0sQAp2Sb6JElEJR0UwWf",
-        "picture": "https://drive.google.com/thumbnail?id=1KRHhvOEIjyBI0sQAp2Sb6JElEJR0UwWf"
+        "name": "Pedro Luca",
+        "link": "https://www.linkedin.com/in/pucavaz/",
+        "picture": "https://github.com/TailUFPB/tail-data/blob/main/images/PucaVaz.png"
     },
     {
-        "name": "Jonas Gabriel",
-        "link": "https://drive.google.com/thumbnail?id=1rA8mHGpJJi5Hi9oCefX098sAwjp3Ec-V",
-        "picture": "https://drive.google.com/thumbnail?id=1rA8mHGpJJi5Hi9oCefX098sAwjp3Ec-V"
+        "name": "Cassiano Sabino",
+        "link": "https://www.linkedin.com/in/cassiano-sabino-419b2a232/",
+        "picture": "https://github.com/TailUFPB/tail-data/blob/main/images/CassianoSabino.png"
     },
     {
-        "name": "Caio Chacon",
-        "link": "https://drive.google.com/thumbnail?id=1eWlB0AN59A9LEo3SGbu68YB2FLGMS3Ef",
-        "picture": "https://drive.google.com/thumbnail?id=1eWlB0AN59A9LEo3SGbu68YB2FLGMS3Ef"
+        "name": "Luana de Méro",
+        "link": "https://www.linkedin.com/in/luanamero/",
+        "picture": "https://github.com/TailUFPB/tail-data/blob/main/images/LuanaMero.jpg"
     },
     {
-        "name": "Davi Ribeiro",
-        "link": "https://drive.google.com/thumbnail?id=1RiFQRIAYWmfsnWdTTtrccX70QKBTZIsj",
-        "picture": "https://drive.google.com/thumbnail?id=1RiFQRIAYWmfsnWdTTtrccX70QKBTZIsj"
+        "name": "João Paulo",
+        "link": "https://www.linkedin.com/in/jo%C3%A3o-borges-1a01aa221/",
+        "picture": "https://github.com/TailUFPB/tail-data/blob/main/images/JoaoPaulo.jpg"
     },
     {
         "name": "Daniel Moreira",
-        "link": "https://drive.google.com/thumbnail?id=1HxQFFoxxxSQU3atGONzQKEKdEoOY_ygl",
-        "picture": "https://drive.google.com/thumbnail?id=1HxQFFoxxxSQU3atGONzQKEKdEoOY_ygl"
+        "link": "https://www.linkedin.com/in/danielmoreiradesousa/",
+        "picture": "https://github.com/TailUFPB/tail-data/blob/main/images/DanielMoreira.jpg"
+    },
+    {
+        "name": "Ícaro Mori",
+        "link": "https://www.linkedin.com/in/icaro-mori-983608210/",
+        "picture": "https://github.com/TailUFPB/tail-data/blob/main/images/IcaroMori.jpg"
+    },
+    {
+        "name": "Tales Nobre",
+        "link": "https://www.linkedin.com/in/talesnobre/",
+        "picture": "https://github.com/TailUFPB/tail-data/blob/main/images/TalesNobre.jpg"
     }
 ]
