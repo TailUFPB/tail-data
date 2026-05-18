@@ -1,0 +1,27 @@
+{
+  "achievements": [
+    {
+      "title": "League at CI - UFPB"
+    },
+    {
+      "title": "AI League in Paraíba"
+    },
+    {
+      "title": "AI League in Northeast"
+    }
+  ],
+  "metrics": [
+    {
+      "value": "750+",
+      "label": "Historic Enrollments"
+    },
+    {
+      "value": "190+",
+      "label": "Community Members"
+    },
+    {
+      "value": "40+",
+      "label": "Projects"
+    }
+  ]
+}
