@@ -12,15 +12,15 @@
   ],
   "metrics": [
     {
-      "value": "750+",
+      "value": "1.000+",
       "label": "Historic Enrollments"
     },
     {
-      "value": "190+",
+      "value": "220+",
       "label": "Community Members"
     },
     {
-      "value": "40+",
+      "value": "45+",
       "label": "Projects"
     }
   ]
