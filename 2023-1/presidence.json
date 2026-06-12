@@ -1,12 +1,12 @@
 [
     {
+        "name": "Guilherme Jácome",
+        "link": "https://www.linkedin.com/in/guilhermejacome/",
+        "picture": "https://drive.google.com/thumbnail?id=13byj0BZnK3_NTGZF3F8gqOVS0f6EgjF4"
+    },
+    {
         "name": "Tales Nobre",
         "link": "https://www.linkedin.com/in/talesnobre/",
         "picture": "https://raw.githubusercontent.com/TailUFPB/tail-data/refs/heads/main/images/TalesNobre.jpg"
-    },
-    {
-        "name": "Guilherme Jácome",
-        "link": "https://www.linkedin.com/in/guilhermejacome/",
-        "picture": "https://raw.githubusercontent.com/TailUFPB/tail-data/refs/heads/main/images/GuilhermeJacome.jpg"
     }
 ]
