@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Joyce Xavier",
+        "link": "https://www.linkedin.com/in/joyce-xavier-406421218/",
+        "picture": "https://raw.githubusercontent.com/TailUFPB/tail-data/refs/heads/main/images/JoyceXavier.jpg"
+    },
+    {
+        "name": "Carlos Freitas",
+        "link": "",
+        "picture": "https://raw.githubusercontent.com/TailUFPB/tail-data/refs/heads/main/images/CarlosFreitas.jpg"
+    },
+    {
+        "name": "Wesley Vieira",
+        "link": "",
+        "picture": "https://raw.githubusercontent.com/TailUFPB/tail-data/refs/heads/main/images/WesleyVieira.jpeg"
+    },
+    {
+        "name": "Tales Nobre",
+        "link": "https://www.linkedin.com/in/talesnobre/",
+        "picture": "https://raw.githubusercontent.com/TailUFPB/tail-data/refs/heads/main/images/TalesNobre.jpg"
+    },
+    {
+        "name": "Caio Chacon",
+        "link": "",
+        "picture": "https://raw.githubusercontent.com/TailUFPB/tail-data/refs/heads/main/images/CaioChacon.jpg"
+    },
+    {
+        "name": "Gabriel Campelo",
+        "link": "",
+        "picture": "https://raw.githubusercontent.com/TailUFPB/tail-data/refs/heads/main/images/GabrielCampelo.jpeg"
+    },
+    {
+        "name": "Humberto Nunes",
+        "link": "",
+        "picture": "https://raw.githubusercontent.com/TailUFPB/tail-data/refs/heads/main/images/HumbertoNunes.jpg"
+    },
+    {
+        "name": "Rômulo Duarte",
+        "link": "https://www.linkedin.com/in/romulo-henri/",
+        "picture": "https://raw.githubusercontent.com/TailUFPB/tail-data/refs/heads/main/images/RomuloDuarte.jpeg"
+    }
+]
